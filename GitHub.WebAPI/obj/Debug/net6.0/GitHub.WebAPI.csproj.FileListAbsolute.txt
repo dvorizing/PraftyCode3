@@ -1,0 +1,76 @@
+C:\Users\97250\Desktop\אילה\אילה תכנות\Practicode3\GitHub.WebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\97250\Desktop\אילה\אילה תכנות\Practicode3\GitHub.WebAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\97250\Desktop\אילה\אילה תכנות\Practicode3\GitHub.WebAPI\bin\Debug\net6.0\GitHub.WebAPI.exe
+C:\Users\97250\Desktop\אילה\אילה תכנות\Practicode3\GitHub.WebAPI\bin\Debug\net6.0\GitHub.WebAPI.deps.json
+C:\Users\97250\Desktop\אילה\אילה תכנות\Practicode3\GitHub.WebAPI\bin\Debug\net6.0\GitHub.WebAPI.runtimeconfig.json
+C:\Users\97250\Desktop\אילה\אילה תכנות\Practicode3\GitHub.WebAPI\bin\Debug\net6.0\GitHub.WebAPI.dll
+C:\Users\97250\Desktop\אילה\אילה תכנות\Practicode3\GitHub.WebAPI\bin\Debug\net6.0\GitHub.WebAPI.pdb
+C:\Users\97250\Desktop\אילה\אילה תכנות\Practicode3\GitHub.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\97250\Desktop\אילה\אילה תכנות\Practicode3\GitHub.WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\97250\Desktop\אילה\אילה תכנות\Practicode3\GitHub.WebAPI\bin\Debug\net6.0\Octokit.dll
+C:\Users\97250\Desktop\אילה\אילה תכנות\Practicode3\GitHub.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\97250\Desktop\אילה\אילה תכנות\Practicode3\GitHub.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\97250\Desktop\אילה\אילה תכנות\Practicode3\GitHub.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\97250\Desktop\אילה\אילה תכנות\Practicode3\GitHub.WebAPI\bin\Debug\net6.0\GitHubIntegration.dll
+C:\Users\97250\Desktop\אילה\אילה תכנות\Practicode3\GitHub.WebAPI\bin\Debug\net6.0\GitHubIntegration.pdb
+C:\Users\97250\Desktop\אילה\אילה תכנות\Practicode3\GitHub.WebAPI\obj\Debug\net6.0\GitHub.WebAPI.csproj.AssemblyReference.cache
+C:\Users\97250\Desktop\אילה\אילה תכנות\Practicode3\GitHub.WebAPI\obj\Debug\net6.0\GitHub.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97250\Desktop\אילה\אילה תכנות\Practicode3\GitHub.WebAPI\obj\Debug\net6.0\GitHub.WebAPI.AssemblyInfoInputs.cache
+C:\Users\97250\Desktop\אילה\אילה תכנות\Practicode3\GitHub.WebAPI\obj\Debug\net6.0\GitHub.WebAPI.AssemblyInfo.cs
+C:\Users\97250\Desktop\אילה\אילה תכנות\Practicode3\GitHub.WebAPI\obj\Debug\net6.0\GitHub.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\97250\Desktop\אילה\אילה תכנות\Practicode3\GitHub.WebAPI\obj\Debug\net6.0\GitHub.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\97250\Desktop\אילה\אילה תכנות\Practicode3\GitHub.WebAPI\obj\Debug\net6.0\GitHub.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\97250\Desktop\אילה\אילה תכנות\Practicode3\GitHub.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.GitHub.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\97250\Desktop\אילה\אילה תכנות\Practicode3\GitHub.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.GitHub.WebAPI.props
+C:\Users\97250\Desktop\אילה\אילה תכנות\Practicode3\GitHub.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GitHub.WebAPI.props
+C:\Users\97250\Desktop\אילה\אילה תכנות\Practicode3\GitHub.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GitHub.WebAPI.props
+C:\Users\97250\Desktop\אילה\אילה תכנות\Practicode3\GitHub.WebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\97250\Desktop\אילה\אילה תכנות\Practicode3\GitHub.WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\97250\Desktop\אילה\אילה תכנות\Practicode3\GitHub.WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\97250\Desktop\אילה\אילה תכנות\Practicode3\GitHub.WebAPI\obj\Debug\net6.0\scopedcss\bundle\GitHub.WebAPI.styles.css
+C:\Users\97250\Desktop\אילה\אילה תכנות\Practicode3\GitHub.WebAPI\obj\Debug\net6.0\GitHub.WebAPI.csproj.CopyComplete
+C:\Users\97250\Desktop\אילה\אילה תכנות\Practicode3\GitHub.WebAPI\obj\Debug\net6.0\GitHub.WebAPI.dll
+C:\Users\97250\Desktop\אילה\אילה תכנות\Practicode3\GitHub.WebAPI\obj\Debug\net6.0\refint\GitHub.WebAPI.dll
+C:\Users\97250\Desktop\אילה\אילה תכנות\Practicode3\GitHub.WebAPI\obj\Debug\net6.0\GitHub.WebAPI.pdb
+C:\Users\97250\Desktop\אילה\אילה תכנות\Practicode3\GitHub.WebAPI\obj\Debug\net6.0\GitHub.WebAPI.genruntimeconfig.cache
+C:\Users\97250\Desktop\אילה\אילה תכנות\Practicode3\GitHub.WebAPI\obj\Debug\net6.0\ref\GitHub.WebAPI.dll
+C:\Users\97250\Desktop\אילה\אילה תכנות\Practicode3\GitHub.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\97250\Desktop\אילה\אילה תכנות\Practicode3\GitHub.WebAPI\bin\Debug\net6.0\Scrutor.dll
+C:\Users\USER\Downloads\Practicode3\GitHub.WebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\USER\Downloads\Practicode3\GitHub.WebAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\USER\Downloads\Practicode3\GitHub.WebAPI\bin\Debug\net6.0\GitHub.WebAPI.exe
+C:\Users\USER\Downloads\Practicode3\GitHub.WebAPI\bin\Debug\net6.0\GitHub.WebAPI.deps.json
+C:\Users\USER\Downloads\Practicode3\GitHub.WebAPI\bin\Debug\net6.0\GitHub.WebAPI.runtimeconfig.json
+C:\Users\USER\Downloads\Practicode3\GitHub.WebAPI\bin\Debug\net6.0\GitHub.WebAPI.dll
+C:\Users\USER\Downloads\Practicode3\GitHub.WebAPI\bin\Debug\net6.0\GitHub.WebAPI.pdb
+C:\Users\USER\Downloads\Practicode3\GitHub.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\USER\Downloads\Practicode3\GitHub.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\USER\Downloads\Practicode3\GitHub.WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\USER\Downloads\Practicode3\GitHub.WebAPI\bin\Debug\net6.0\Octokit.dll
+C:\Users\USER\Downloads\Practicode3\GitHub.WebAPI\bin\Debug\net6.0\Scrutor.dll
+C:\Users\USER\Downloads\Practicode3\GitHub.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\USER\Downloads\Practicode3\GitHub.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\USER\Downloads\Practicode3\GitHub.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\USER\Downloads\Practicode3\GitHub.WebAPI\bin\Debug\net6.0\GitHubIntegration.dll
+C:\Users\USER\Downloads\Practicode3\GitHub.WebAPI\bin\Debug\net6.0\GitHubIntegration.pdb
+C:\Users\USER\Downloads\Practicode3\GitHub.WebAPI\obj\Debug\net6.0\GitHub.WebAPI.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\Practicode3\GitHub.WebAPI\obj\Debug\net6.0\GitHub.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Downloads\Practicode3\GitHub.WebAPI\obj\Debug\net6.0\GitHub.WebAPI.AssemblyInfoInputs.cache
+C:\Users\USER\Downloads\Practicode3\GitHub.WebAPI\obj\Debug\net6.0\GitHub.WebAPI.AssemblyInfo.cs
+C:\Users\USER\Downloads\Practicode3\GitHub.WebAPI\obj\Debug\net6.0\GitHub.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\Practicode3\GitHub.WebAPI\obj\Debug\net6.0\GitHub.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\USER\Downloads\Practicode3\GitHub.WebAPI\obj\Debug\net6.0\GitHub.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\Downloads\Practicode3\GitHub.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.GitHub.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\USER\Downloads\Practicode3\GitHub.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.GitHub.WebAPI.props
+C:\Users\USER\Downloads\Practicode3\GitHub.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GitHub.WebAPI.props
+C:\Users\USER\Downloads\Practicode3\GitHub.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GitHub.WebAPI.props
+C:\Users\USER\Downloads\Practicode3\GitHub.WebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\USER\Downloads\Practicode3\GitHub.WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\USER\Downloads\Practicode3\GitHub.WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\USER\Downloads\Practicode3\GitHub.WebAPI\obj\Debug\net6.0\scopedcss\bundle\GitHub.WebAPI.styles.css
+C:\Users\USER\Downloads\Practicode3\GitHub.WebAPI\obj\Debug\net6.0\GitHub.WebAPI.csproj.CopyComplete
+C:\Users\USER\Downloads\Practicode3\GitHub.WebAPI\obj\Debug\net6.0\GitHub.WebAPI.dll
+C:\Users\USER\Downloads\Practicode3\GitHub.WebAPI\obj\Debug\net6.0\refint\GitHub.WebAPI.dll
+C:\Users\USER\Downloads\Practicode3\GitHub.WebAPI\obj\Debug\net6.0\GitHub.WebAPI.pdb
+C:\Users\USER\Downloads\Practicode3\GitHub.WebAPI\obj\Debug\net6.0\GitHub.WebAPI.genruntimeconfig.cache
+C:\Users\USER\Downloads\Practicode3\GitHub.WebAPI\obj\Debug\net6.0\ref\GitHub.WebAPI.dll

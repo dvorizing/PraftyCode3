@@ -1,0 +1,24 @@
+C:\Users\97250\Desktop\אילה\אילה תכנות\Practicode3\Practicode3\bin\Debug\net6.0\GitHubIntegration.deps.json
+C:\Users\97250\Desktop\אילה\אילה תכנות\Practicode3\Practicode3\bin\Debug\net6.0\GitHubIntegration.dll
+C:\Users\97250\Desktop\אילה\אילה תכנות\Practicode3\Practicode3\bin\Debug\net6.0\GitHubIntegration.pdb
+C:\Users\97250\Desktop\אילה\אילה תכנות\Practicode3\Practicode3\obj\Debug\net6.0\GitHubIntegration.csproj.AssemblyReference.cache
+C:\Users\97250\Desktop\אילה\אילה תכנות\Practicode3\Practicode3\obj\Debug\net6.0\GitHubIntegration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97250\Desktop\אילה\אילה תכנות\Practicode3\Practicode3\obj\Debug\net6.0\GitHubIntegration.AssemblyInfoInputs.cache
+C:\Users\97250\Desktop\אילה\אילה תכנות\Practicode3\Practicode3\obj\Debug\net6.0\GitHubIntegration.AssemblyInfo.cs
+C:\Users\97250\Desktop\אילה\אילה תכנות\Practicode3\Practicode3\obj\Debug\net6.0\GitHubIntegration.csproj.CoreCompileInputs.cache
+C:\Users\97250\Desktop\אילה\אילה תכנות\Practicode3\Practicode3\obj\Debug\net6.0\GitHubIntegration.dll
+C:\Users\97250\Desktop\אילה\אילה תכנות\Practicode3\Practicode3\obj\Debug\net6.0\refint\GitHubIntegration.dll
+C:\Users\97250\Desktop\אילה\אילה תכנות\Practicode3\Practicode3\obj\Debug\net6.0\GitHubIntegration.pdb
+C:\Users\97250\Desktop\אילה\אילה תכנות\Practicode3\Practicode3\obj\Debug\net6.0\ref\GitHubIntegration.dll
+C:\Users\USER\Downloads\Practicode3\Practicode3\bin\Debug\net6.0\GitHubIntegration.deps.json
+C:\Users\USER\Downloads\Practicode3\Practicode3\bin\Debug\net6.0\GitHubIntegration.dll
+C:\Users\USER\Downloads\Practicode3\Practicode3\bin\Debug\net6.0\GitHubIntegration.pdb
+C:\Users\USER\Downloads\Practicode3\Practicode3\obj\Debug\net6.0\GitHubIntegration.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\Practicode3\Practicode3\obj\Debug\net6.0\GitHubIntegration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Downloads\Practicode3\Practicode3\obj\Debug\net6.0\GitHubIntegration.AssemblyInfoInputs.cache
+C:\Users\USER\Downloads\Practicode3\Practicode3\obj\Debug\net6.0\GitHubIntegration.AssemblyInfo.cs
+C:\Users\USER\Downloads\Practicode3\Practicode3\obj\Debug\net6.0\GitHubIntegration.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\Practicode3\Practicode3\obj\Debug\net6.0\GitHubIntegration.dll
+C:\Users\USER\Downloads\Practicode3\Practicode3\obj\Debug\net6.0\refint\GitHubIntegration.dll
+C:\Users\USER\Downloads\Practicode3\Practicode3\obj\Debug\net6.0\GitHubIntegration.pdb
+C:\Users\USER\Downloads\Practicode3\Practicode3\obj\Debug\net6.0\ref\GitHubIntegration.dll
